@@ -26,5 +26,4 @@ Mục tiêu: Giao tiếp với Device Driver GPIO ở tầng thấp nhất của
 > Kết quả Nghiệm thu cuối cùng:
 > https://github.com/user-attachments/assets/45858351-11d6-45bf-8c01-c81ad9c362cd
 > Bo mạch sau khi được cấp nguồn độc lập (không giao tiếp máy tính) đã tự động nạp OS, tiến trình `init` tự động quét thư mục `/etc/init.d/` và kích hoạt thành công ứng dụng nháy LED dưới nền.
-> 
-> [👉 CHÈN LINK VIDEO CỦA BẠN VÀO ĐÂY: Quay cảnh BBB đang cắm điện và đèn tự nháy]
+
